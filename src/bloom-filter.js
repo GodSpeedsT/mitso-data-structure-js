@@ -46,7 +46,7 @@ module.exports = class BloomFilter {
    */
   hash1(/* item */) {
     throw new NotImplementedError("Not implemented");
-    // remove line with error and write your code here
+    // remove line swith error and write your code here
   }
 
   /**
